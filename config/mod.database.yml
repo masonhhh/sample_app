@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  host: localhost
+  username: mason
+  database: mason
+  
+  test:
+  adapter: postgresql
+  host: localhost
+  username: mason
+  database: mason
+  
+  production:
+  adapter: postgresql
+  host: localhost
+  username: mason
+  database: mason
